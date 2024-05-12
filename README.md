@@ -1,5 +1,5 @@
 1. Bir tane Makefile oluşturuldu.
-2. Hem compile edecek hemde ``myreader`` isminde bir program olusturacak. Kullanıcı isterse tum object ve ``myreader`` program dosyalarini silebilecek.
+2. Hem compile edecek hemde ``myreader`` isminde bir program olusturacak. Kullanıcı isterse tum object ve ``myreader`` program dosyalarini bu Makefile'ı kullanarak silebilecek.
     
 
     
