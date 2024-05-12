@@ -8,10 +8,9 @@ aradaki virgul iki sutunu ayirmakta
 
 örneğin:
 
-1 6
-Comments
+1 6  Comments
 
-program yukarıdaki gibi satırın ilgili sütununu gösterdikten sonra program sonlanmaktadir.
+program yukarıdaki gibi ilgili satırın ilgili sütununu gösterdikten sonra program sonlanmaktadır.
 
 
 
