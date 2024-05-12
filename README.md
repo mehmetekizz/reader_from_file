@@ -1,18 +1,17 @@
-1. Bir tane Makefile oluşturuldu.
-2. Hem compile edecek hemde ``myreader`` isminde bir program olusturacak. Kullanıcı isterse tum object ve ``myreader`` program dosyalarini bu Makefile'ı kullanarak silebilecek.
-    
+1. Bir tane Makefile eklendi
+    Hem compile edecek hemde ``myreader`` isminde bir program olusturacak.
 
-    
-4. CSV tablo şeklindeki datayı virgüllerle ayırarak tutar; mesela: öğrenci-no,öğrenci ismi aradaki virgül iki sütunu ayırmakta.
-5. örneğin: 1. satır 6. sütundaki veri 'Comments' verisidir.
+    Tum object ve ``myreader`` program dosyalarini silinecek makefile ile.
+2. CSV tablo seklindeki datayi virgullerle ayirarak tutar; mesela:
+ogrenci-no,ogrenci ismi
+aradaki virgul iki sutunu ayirmakta
 
-  program yukarıdaki gibi satırın ilgili sütununu gösterdikten sonra programı sonlanmaktadır.
+örneğin:
 
+1 6
+Comments
 
-
-
-
-
+program yukarıdaki gibi satırın ilgili sütununu gösterdikten sonra program sonlanmaktadir.
 
 
 
