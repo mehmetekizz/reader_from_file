@@ -4,7 +4,7 @@
 
     
 4. CSV tablo şeklindeki datayı virgüllerle ayırarak tutar; mesela: öğrenci-no,öğrenci ismi aradaki virgül iki sütunu ayırmakta.
-5. örneğin: 1. satır 6. sütundaki veri 'Comments' verisi.
+5. örneğin: 1. satır 6. sütundaki veri 'Comments' verisidir.
 
   program yukarıdaki gibi satırın ilgili sütununu gösterdikten sonra programı sonlanmaktadır.
 
