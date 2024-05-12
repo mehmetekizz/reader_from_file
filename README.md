@@ -3,13 +3,10 @@
     
 
     
-4. CSV tablo seklindeki datayi virgullerle ayirarak tutar; mesela: ogrenci-no,ogrenci ismi aradaki virgul iki sutunu ayirmakta.
-5. örneğin:
+4. CSV tablo şeklindeki datayı virgüllerle ayırarak tutar; mesela: öğrenci-no,öğrenci ismi aradaki virgül iki sütunu ayırmakta.
+5. örneğin: 1. satır 6. sütundaki veri 'Comments' verisi.
 
-1 6
-Comments
-
-program yukarıdaki gibi satırın ilgili sütununu gösterdikten sonra program sonlanmaktadir.
+program yukarıdaki gibi satırın ilgili sütununu gösterdikten sonra programı sonlanmaktadır.
 
 
 
