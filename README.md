@@ -1,8 +1,9 @@
-1. Bir tane Makefile eklendi
-    Hem compile edecek hemde ``myreader`` isminde bir program olusturacak.
+1. Bir tane Makefile oluşturuldu.
+2. Hem compile edecek hemde ``myreader`` isminde bir program olusturacak. Kullanıcı isterse tum object ve ``myreader`` program dosyalarini silebilecek.
+    
 
-    Tum object ve ``myreader`` program dosyalarini silinecek makefile ile.
-2. CSV tablo seklindeki datayi virgullerle ayirarak tutar; mesela:
+    
+4. CSV tablo seklindeki datayi virgullerle ayirarak tutar; mesela:
 ogrenci-no,ogrenci ismi
 aradaki virgul iki sutunu ayirmakta
 
@@ -12,6 +13,10 @@ aradaki virgul iki sutunu ayirmakta
 Comments
 
 program yukarıdaki gibi satırın ilgili sütununu gösterdikten sonra program sonlanmaktadir.
+
+
+
+
 
 
 
